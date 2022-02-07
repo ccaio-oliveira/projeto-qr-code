@@ -1,0 +1,43 @@
+*{
+	margin: 0;	
+	padding: 0;
+}
+
+body{
+	background: #EFF2FB;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	max-width: 1440px;
+	min-width: 1100px;
+}
+
+#container{
+	background: white;
+	margin: 8% auto;
+	width: 20%; 
+	height: 60%;
+	position: relative;
+	border: 1px solid white;
+	border-radius: 20px;
+
+}
+
+#codigo {
+	padding: 10px;
+}
+
+#codigo img{
+	width: 100%;
+	border: 1 px solid white;
+	border-radius: 10px;
+}
+
+h3{
+	margin: 10px;
+	text-align: center;
+}
+
+p{
+	text-align: center;
+	padding: 10px 10px 20px 10px;
+	font-size: 15px;
+}
